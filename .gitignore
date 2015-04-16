@@ -1,0 +1,16 @@
+.metadata
+.metadata/
+.settings
+.settings/
+.idea
+.idea/
+.project
+nbproject
+nbproject/
+*.gddoc
+*~
+*.DS_Store
+_notes/
+_notes
+/nbproject/private/
+*.htaccess
